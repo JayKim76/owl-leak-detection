@@ -1,0 +1,18 @@
+{
+  "case_id": "MKT-002",
+  "title": "AI 기반 SNS 콘텐츠 생성 자동화",
+  "department": "Marketing",
+  "metrics": {
+    "monthly_volume": 120,
+    "manual_process": {
+      "time_per_task_minutes": 120,
+      "cost_per_minute": 0.8,
+      "human_resource_count": 2
+    },
+    "ai_process": {
+      "time_per_task_minutes": 5,
+      "cost_per_task_usd": 0.2,
+      "api_cost_per_month_usd": 20
+    }
+  }
+}

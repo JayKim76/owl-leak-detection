@@ -1,0 +1,23 @@
+Industry: Customer Service
+Process: Ticket Resolution
+Metric: First Response Time (FRT)
+Pre-AI: 4 hours
+Post-AI: 15 minutes
+Improvement: 93.75%
+Source: Zendesk AI Report 2024
+
+Industry: Logistics
+Process: Inventory Forecasting
+Metric: Error Rate
+Pre-AI: 12%
+Post-AI: 3%
+Improvement: 75%
+Source: Supply Chain AI Case Study
+
+Industry: Content Marketing
+Process: Article Generation
+Metric: Turnaround Time
+Pre-AI: 10 hours
+Post-AI: 0.5 hours
+Improvement: 95%
+Source: Internal Automation Pilot

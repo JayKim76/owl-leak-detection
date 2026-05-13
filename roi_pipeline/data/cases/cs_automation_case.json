@@ -1,0 +1,18 @@
+{
+  "case_id": "CS-001",
+  "title": "Agentic RAG 기반 고객 응대 자동화",
+  "department": "Customer Service",
+  "metrics": {
+    "monthly_volume": 1000,
+    "manual_process": {
+      "time_per_task_minutes": 15,
+      "cost_per_minute": 0.5,
+      "human_resource_count": 5
+    },
+    "ai_process": {
+      "time_per_task_minutes": 1,
+      "cost_per_task_usd": 0.05,
+      "api_cost_per_month_usd": 50
+    }
+  }
+}
